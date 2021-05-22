@@ -12,12 +12,12 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "bookstore",
+      "launchUrl": "weather", 
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BookStoreWebApi": {
+    "WeatherWebApi": { 
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "users",
